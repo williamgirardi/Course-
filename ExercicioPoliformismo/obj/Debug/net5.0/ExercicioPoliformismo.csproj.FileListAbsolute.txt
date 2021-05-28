@@ -1,0 +1,16 @@
+C:\Users\William Girardi\source\repos\ExercicioPoliformismo\ExercicioPoliformismo\bin\Debug\net5.0\ExercicioPoliformismo.exe
+C:\Users\William Girardi\source\repos\ExercicioPoliformismo\ExercicioPoliformismo\bin\Debug\net5.0\ExercicioPoliformismo.deps.json
+C:\Users\William Girardi\source\repos\ExercicioPoliformismo\ExercicioPoliformismo\bin\Debug\net5.0\ExercicioPoliformismo.runtimeconfig.json
+C:\Users\William Girardi\source\repos\ExercicioPoliformismo\ExercicioPoliformismo\bin\Debug\net5.0\ExercicioPoliformismo.runtimeconfig.dev.json
+C:\Users\William Girardi\source\repos\ExercicioPoliformismo\ExercicioPoliformismo\bin\Debug\net5.0\ExercicioPoliformismo.dll
+C:\Users\William Girardi\source\repos\ExercicioPoliformismo\ExercicioPoliformismo\bin\Debug\net5.0\ref\ExercicioPoliformismo.dll
+C:\Users\William Girardi\source\repos\ExercicioPoliformismo\ExercicioPoliformismo\bin\Debug\net5.0\ExercicioPoliformismo.pdb
+C:\Users\William Girardi\source\repos\ExercicioPoliformismo\ExercicioPoliformismo\obj\Debug\net5.0\ExercicioPoliformismo.csprojAssemblyReference.cache
+C:\Users\William Girardi\source\repos\ExercicioPoliformismo\ExercicioPoliformismo\obj\Debug\net5.0\ExercicioPoliformismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William Girardi\source\repos\ExercicioPoliformismo\ExercicioPoliformismo\obj\Debug\net5.0\ExercicioPoliformismo.AssemblyInfoInputs.cache
+C:\Users\William Girardi\source\repos\ExercicioPoliformismo\ExercicioPoliformismo\obj\Debug\net5.0\ExercicioPoliformismo.AssemblyInfo.cs
+C:\Users\William Girardi\source\repos\ExercicioPoliformismo\ExercicioPoliformismo\obj\Debug\net5.0\ExercicioPoliformismo.csproj.CoreCompileInputs.cache
+C:\Users\William Girardi\source\repos\ExercicioPoliformismo\ExercicioPoliformismo\obj\Debug\net5.0\ExercicioPoliformismo.dll
+C:\Users\William Girardi\source\repos\ExercicioPoliformismo\ExercicioPoliformismo\obj\Debug\net5.0\ref\ExercicioPoliformismo.dll
+C:\Users\William Girardi\source\repos\ExercicioPoliformismo\ExercicioPoliformismo\obj\Debug\net5.0\ExercicioPoliformismo.pdb
+C:\Users\William Girardi\source\repos\ExercicioPoliformismo\ExercicioPoliformismo\obj\Debug\net5.0\ExercicioPoliformismo.genruntimeconfig.cache
